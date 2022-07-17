@@ -1,0 +1,51 @@
+#me{
+    width:400px;height:400px;
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
+
+#button{
+    padding:5px;
+}
+body{
+  background-color: navy;
+}
+
+ #main{
+    color : powderblue;
+    margin: 180px;
+    font:arial;
+    font-size: 1.5rem;
+ }
+
+/* Style the top navigation bar */
+ .navbar {
+  display: flex;
+  background-color: #333;
+}
+
+/* Style the navigation bar links */
+.navbar .b {
+  color: white;
+  padding: 14px 60px;
+  text-decoration: none;
+  text-align: center;
+}
+
+/* Change color on hover */
+.navbar .b:hover {
+  background-color: pink;
+  color: black;
+}
+
+.intro{
+  color: white;
+  width: 45%;
+  position: absolute;
+  left: 525px;
+  top: 250px;
+  padding:10px;
+  display :flex;
+  flex-wrap: wrap;
+}
